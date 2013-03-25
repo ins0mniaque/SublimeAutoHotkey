@@ -1,0 +1,22 @@
+{
+    "schema_version": "1.2",
+    "packages":
+    [
+        {
+            "name": "AutoHotkey",
+            "description": "Support for AutoHotkey",
+            "author": "Jean-Philippe Leconte (ins0mniaque)",
+            "homepage": "https://github.com/ins0mniaque/SublimeAutoHotkey",
+            "platforms":
+            {
+                "*":
+                [
+                    {
+                        "version": "1.0",
+                        "url": "https://nodeload.github.com/ins0mniaque/SublimeAutoHotkey/zip/master"
+                    }
+                ]
+            }
+        }
+    ]
+}
